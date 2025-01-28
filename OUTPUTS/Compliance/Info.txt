@@ -1,5 +1,5 @@
 SKU: 333122
-Full product name: Hydrogen sensor MQ8 breakout with easyC
+Full product name: Hydrogen sensor MQ8 breakout qwiic
 Country of origin: Croatia
-HS tariff code: 90279090
+HS tariff code: 85340090
 EAN/UPC barcode: 732388666201
